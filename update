@@ -1,0 +1,6 @@
+echo "# SMG-website-prototype" > README.md
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/SMG-Dev/SMG-website-prototype.git
+git push -u origin master
